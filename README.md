@@ -1,4 +1,10 @@
 # EB Garamond
+
+What's changed in this fork?
+
+* Added some kerning pairs to fix spacing issues
+* Added a branch where name id "Typographic Family name" is changed to "EB Garamond 08" so it would appear as a sperate font in Kindle.
+
 *Claude Garamont’s designs go open source*
 
 This project aims at providing a free version of the Garamond types, based on the Designs of the Berner specimen from 1592.
