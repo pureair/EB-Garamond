@@ -1,9 +1,9 @@
-# EB Garamond
-
-What's changed in this fork?
+# What's changed in this fork?
 
 * Added some kerning pairs to fix spacing issues
 * Added a branch where name id "Typographic Family name" is changed to "EB Garamond 08" so it would appear as a sperate font in Kindle.
+
+# EB Garamond
 
 *Claude Garamont’s designs go open source*
 
